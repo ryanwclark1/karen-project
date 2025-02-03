@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop a **calendar kiosk** designed for convenient scheduling and event viewing.
+This project aims to create a **calendar kiosk**.
 
 ## Display Options
 One of the key decision points in the design process is selecting the appropriate display technology: **e-ink** or a **traditional color display**.
